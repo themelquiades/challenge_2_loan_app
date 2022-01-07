@@ -12,6 +12,8 @@ import questionary
 import csv
 from pathlib import Path
 
+from questionary.constants import YES
+
 #imports load and save functions
 from qualifier.utils.fileio import (load_csv, save_csv)
 
@@ -113,7 +115,13 @@ def save_qualifying_loans(qualifying_loans):
         qualifying_loans (list of lists): The qualifying bank loans.
     """
     # @TODO: Complete the usability dialog for savings the CSV Files.
-    
+    # asks if the user wants to save their qualifying loans to a new file
+    save_prompt = questionary.confirm("Would you like to save your qualifying loans to a new file?").ask()
+    if save_prompt == True:
+        csvpath = questionary.text("Great, please enter a file path for where you'd like to save (.csv):").ask()
+        save_csv(csvpath, qualifying_loans)
+    else:
+        print(f"Okay, have a great day.")
 
 
 def run():

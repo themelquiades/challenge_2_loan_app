@@ -4,7 +4,7 @@ along with writing new data to a new CSV file
 
 """
 import csv
-
+from pathlib import Path
 
 def load_csv(csvpath):
     """Reads the CSV file from path provided.
@@ -38,8 +38,8 @@ def load_csv(csvpath):
         A new CSV file at the specified path containing a list of lists.
 
     """
-def save_csv(file_path, qualifying_loans):
-    csvpath = Path(file_path)
+def save_csv(csvpath, qualifying_loans):
+    csvpath = Path(csvpath)
     with open(csvpath, 'w', newline='') as csvfile:
         csvwriter=csv.writer(csvfile)
         for row in qualifying_loans:
