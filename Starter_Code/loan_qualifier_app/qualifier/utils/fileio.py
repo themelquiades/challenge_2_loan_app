@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
-"""Helper functions to load and save CSV data.
-
-This contains a helper function for loading and saving CSV files.
+"""Helper functions to load and save CSV data
+along with writing new data to a new CSV file
 
 """
 import csv
@@ -28,3 +27,20 @@ def load_csv(csvpath):
         for row in csvreader:
             data.append(row)
     return data
+
+
+"""Function that writes data into a new CSV file at the path provided.
+
+    Args:
+        csvpath (Path): The new csv file path.
+
+    Returns:
+        A new CSV file at the specified path containing a list of lists.
+
+    """
+def save_csv(file_path, qualifying_loans):
+    csvpath = Path(file_path)
+    with open(csvpath, 'w', newline='') as csvfile:
+        csvwriter=csv.writer(csvfile)
+        for row in qualifying_loans:
+            csvwriter.writerow(row)
