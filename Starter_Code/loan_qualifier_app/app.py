@@ -35,9 +35,9 @@ def load_bank_data():
     Returns:
         The bank data from the data rate sheet CSV file.
     """
-
-    csvpath = questionary.text("Enter a file path to a rate-sheet (.csv):").ask()
-    csvpath = Path(csvpath)
+    csvpath = Path ("Starter_Code/loan_qualifier_app/data/daily_rate_sheet.csv")
+    #csvpath = questionary.text("Enter a file path to a rate-sheet (.csv):").ask()
+    #csvpath = Path(csvpath)
     if not csvpath.exists():
         sys.exit(f"Oops! Can't find this path: {csvpath}")
 
@@ -50,7 +50,7 @@ def get_applicant_info():
     Returns:
         Returns the applicant's financial information.
     """
-
+    
     credit_score = questionary.text("What's your credit score?").ask()
     debt = questionary.text("What's your current amount of monthly debt?").ask()
     income = questionary.text("What's your total monthly income?").ask()
@@ -116,12 +116,16 @@ def save_qualifying_loans(qualifying_loans):
     """
     # @TODO: Complete the usability dialog for savings the CSV Files.
     # asks if the user wants to save their qualifying loans to a new file
-    save_prompt = questionary.confirm("Would you like to save your qualifying loans to a new file?").ask()
-    if save_prompt == True:
-        csvpath = questionary.text("Great, please enter a file path for where you'd like to save (.csv):").ask()
-        save_csv(csvpath, qualifying_loans)
+    if len(qualifying_loans) == 0:
+        sys.exit(f"Sorry, no loans meet your criteria. Please choose a smaller loan size or come back when you have better credit.")   
     else:
-        print(f"Okay, have a great day.")
+        save_prompt = questionary.confirm("Would you like to save your qualifying loans to a new file?").ask()
+        if save_prompt == True:
+            csvpath = questionary.text("Great, please enter a file path for where you'd like to save (.csv):").ask()
+            save_csv(csvpath, qualifying_loans)
+            sys.exit(f"Your loans have been saved to <{csvpath}>. Happy shopping.")
+        else:
+            sys.exit(f"Okay, have a great day.")
 
 
 def run():
