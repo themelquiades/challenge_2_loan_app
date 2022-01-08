@@ -17,12 +17,12 @@ from questionary.constants import YES
 #imports load and save functions
 from qualifier.utils.fileio import (load_csv, save_csv)
 
-
+#imports calculating functions
 from qualifier.utils.calculators import (
     calculate_monthly_debt_ratio,
     calculate_loan_to_value_ratio,
 )
-
+#imports filters for qualifying loans
 from qualifier.filters.max_loan_size import filter_max_loan_size
 from qualifier.filters.credit_score import filter_credit_score
 from qualifier.filters.debt_to_income import filter_debt_to_income
@@ -115,16 +115,19 @@ def save_qualifying_loans(qualifying_loans):
         qualifying_loans (list of lists): The qualifying bank loans.
     """
     # @TODO: Complete the usability dialog for savings the CSV Files.
-    # asks if the user wants to save their qualifying loans to a new file
+    #if there are no qualifying loans, will exit with a message
     if len(qualifying_loans) == 0:
         sys.exit(f"Sorry, no loans meet your criteria. Please choose a smaller loan size or come back when you have better credit.")   
     else:
-        save_prompt = questionary.confirm("Would you like to save your qualifying loans to a new file?").ask()
+        # asks if the user wants to save their qualifying loans to a new file
+        save_prompt = questionary.confirm("Would you like to save your qualifying loans to a new .csv file?").ask()
         if save_prompt == True:
+            # allows user to choose file path
             csvpath = questionary.text("Great, please enter a file path for where you'd like to save (.csv):").ask()
             save_csv(csvpath, qualifying_loans)
             sys.exit(f"Your loans have been saved to <{csvpath}>. Happy shopping.")
         else:
+            # if they don't want to, will exit with a kind message
             sys.exit(f"Okay, have a great day.")
 
 
