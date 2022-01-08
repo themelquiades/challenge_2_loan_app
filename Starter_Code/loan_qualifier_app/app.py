@@ -35,9 +35,8 @@ def load_bank_data():
     Returns:
         The bank data from the data rate sheet CSV file.
     """
-    csvpath = Path ("Starter_Code/loan_qualifier_app/data/daily_rate_sheet.csv")
-    #csvpath = questionary.text("Enter a file path to a rate-sheet (.csv):").ask()
-    #csvpath = Path(csvpath)
+    csvpath = questionary.text("Enter a file path to a rate-sheet (.csv):").ask()
+    csvpath = Path(csvpath)
     if not csvpath.exists():
         sys.exit(f"Oops! Can't find this path: {csvpath}")
 
