@@ -1,0 +1,1107 @@
+   50  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/no_prompt_files/loop_practice_2.py
+   51  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/no_prompt_files/loop_practice_2.py
+   52  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/no_prompt_files/loop_practice_2.py
+   53  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/no_prompt_files/loop_practice_2.py
+   54  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/no_prompt_files/loop_practice_2.py
+   55  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/no_prompt_files/loop_practice_2.py
+   56  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/no_prompt_files/loop_practice_2.py
+   57  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/no_prompt_files/loop_practice_2.py
+   58  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/no_prompt_files/loop_practice_2.py
+   59  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+   60  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+   61  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/no_prompt_files/data_tables.py
+   62  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/no_prompt_files/data_tables.py
+   63  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/no_prompt_files/data_tables.py
+   64  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/no_prompt_files/data_tables.py
+   65  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/no_prompt_files/data_tables.py
+   66  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/no_prompt_files/data_tables.py
+   67  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/no_prompt_files/data_tables.py
+   68  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/no_prompt_files/data_tables.py
+   69  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/no_prompt_files/data_tables.py
+   70  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/no_prompt_files/import_pathlib.py
+   71  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/no_prompt_files/import_pathlib.py
+   72  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/no_prompt_files/import_pathlib.py
+   73  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/no_prompt_files/import_pathlib.py
+   74  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+   75  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+   76  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+   77  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+   78  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/01_Read_and_Write_CSV/read_and_write_CSV.py
+   79  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/01_Read_and_Write_CSV/read_and_write_CSV.py
+   80  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/01_Read_and_Write_CSV/read_and_write_CSV.py
+   81  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/01_Read_and_Write_CSV/read_and_write_CSV.py
+   82  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/01_Read_and_Write_CSV/read_and_write_CSV.py
+   83  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/01_Read_and_Write_CSV/read_and_write_CSV.py
+   84  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/01_Read_and_Write_CSV/read_and_write_CSV.py
+   85  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+   86  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+   87  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+   88  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+   89  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+   90  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+   91  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+   92  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+   93  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+   94  cd /Users/nicocortese/Desktop/Lesson_activities/03_Pathways_to_Success_Part_2/Unsolved
+   95  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+   96  cd /Users/nicocortese/Desktop/Lesson_activities/03_Pathways_to_Success_Part_2/Unsolved
+   97  /usr/local/bin/python3 /Users/nicocortese/Desktop/Lesson_activities/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+   98  /usr/local/bin/python3 "/Users/nicocortese/Desktop/columbia_fintech_boot_camp/CU-VIRT-FIN-PT-12-2021-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01 copy.py"
+   99  /usr/local/bin/python3 "/Users/nicocortese/Desktop/columbia_fintech_boot_camp/CU-VIRT-FIN-PT-12-2021-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01 copy.py"
+  100  /usr/local/bin/python3 "/Users/nicocortese/Desktop/columbia_fintech_boot_camp/CU-VIRT-FIN-PT-12-2021-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01 copy.py"
+  101  code .
+  102  /usr/local/bin/python3 "/Users/nicocortese/Desktop/columbia_fintech_boot_camp/CU-VIRT-FIN-PT-12-2021-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01 copy.py"
+  103  /usr/local/bin/python3
+  104  /usr/local/bin/python3 "/Users/nicocortese/Desktop/columbia_fintech_boot_camp/CU-VIRT-FIN-PT-12-2021-U-B/02-Financial-Applications-Python/1/Activities/03_Inst_ATM_Application_Logic/Unsolved/atm copy.py"
+  105  /usr/local/bin/python3 "/Users/nicocortese/Desktop/columbia_fintech_boot_camp/CU-VIRT-FIN-PT-12-2021-U-B/02-Financial-Applications-Python/1/Activities/03_Inst_ATM_Application_Logic/Unsolved/atm copy.py"
+  106  /usr/local/bin/python3 "/Users/nicocortese/Desktop/columbia_fintech_boot_camp/CU-VIRT-FIN-PT-12-2021-U-B/02-Financial-Applications-Python/1/Activities/03_Inst_ATM_Application_Logic/Unsolved/atm copy.py"
+  107  /usr/local/bin/python3 "/Users/nicocortese/Desktop/columbia_fintech_boot_camp/CU-VIRT-FIN-PT-12-2021-U-B/02-Financial-Applications-Python/1/Activities/03_Inst_ATM_Application_Logic/Unsolved/atm copy.py"
+  108  /usr/local/bin/python3 "/Users/nicocortese/Desktop/columbia_fintech_boot_camp/CU-VIRT-FIN-PT-12-2021-U-B/02-Financial-Applications-Python/1/Activities/03_Inst_ATM_Application_Logic/Unsolved/atm copy.py"
+  109  /usr/local/bin/python3 "/Users/nicocortese/Desktop/columbia_fintech_boot_camp/CU-VIRT-FIN-PT-12-2021-U-B/02-Financial-Applications-Python/1/Activities/03_Inst_ATM_Application_Logic/Unsolved/atm copy.py"
+  110  /usr/local/bin/python3 "/Users/nicocortese/Desktop/columbia_fintech_boot_camp/CU-VIRT-FIN-PT-12-2021-U-B/02-Financial-Applications-Python/1/Activities/03_Inst_ATM_Application_Logic/Unsolved/atm copy.py"
+  111  /usr/local/bin/python3 "/Users/nicocortese/Desktop/columbia_fintech_boot_camp/CU-VIRT-FIN-PT-12-2021-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/02-lists-01/Unsolved/lists-01 copy.py"
+  112  /usr/local/bin/python3 "/Users/nicocortese/Desktop/columbia_fintech_boot_camp/CU-VIRT-FIN-PT-12-2021-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/02-lists-01/Unsolved/lists-01 copy.py"
+  113  /usr/local/bin/python3 "/Users/nicocortese/Desktop/columbia_fintech_boot_camp/CU-VIRT-FIN-PT-12-2021-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/02-lists-01/Unsolved/lists-01 copy.py"
+  114  /usr/local/bin/python3 "/Users/nicocortese/Desktop/columbia_fintech_boot_camp/CU-VIRT-FIN-PT-12-2021-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/02-lists-01/Unsolved/lists-01 copy.py"
+  115  /usr/local/bin/python3 "/Users/nicocortese/Desktop/columbia_fintech_boot_camp/CU-VIRT-FIN-PT-12-2021-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/02-lists-01/Unsolved/lists-01 copy.py"
+  116  /usr/local/bin/python3 "/Users/nicocortese/Desktop/columbia_fintech_boot_camp/CU-VIRT-FIN-PT-12-2021-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/02-lists-01/Unsolved/lists-01 copy.py"
+  117  /usr/local/bin/python3 "/Users/nicocortese/Desktop/columbia_fintech_boot_camp/CU-VIRT-FIN-PT-12-2021-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/02-lists-01/Unsolved/lists-01 copy.py"
+  118  /usr/local/bin/python3 "/Users/nicocortese/Desktop/columbia_fintech_boot_camp/CU-VIRT-FIN-PT-12-2021-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/02-lists-01/Unsolved/lists-01 copy.py"
+  119  /usr/local/bin/python3 /Users/nicocortese/Desktop/columbia_fintech_boot_camp/CU-VIRT-FIN-PT-12-2021-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/03-dicts-01/dicts-01.py
+  120  /usr/local/bin/python3 "/Users/nicocortese/Desktop/columbia_fintech_boot_camp/CU-VIRT-FIN-PT-12-2021-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01 copy.py"
+  121  /usr/local/bin/python3 "/Users/nicocortese/Desktop/columbia_fintech_boot_camp/CU-VIRT-FIN-PT-12-2021-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01 copy.py"
+  122  /usr/local/bin/python3 "/Users/nicocortese/Desktop/columbia_fintech_boot_camp/CU-VIRT-FIN-PT-12-2021-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01 copy.py"
+  123  /usr/local/bin/python3 "/Users/nicocortese/Desktop/columbia_fintech_boot_camp/CU-VIRT-FIN-PT-12-2021-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01 copy.py"
+  124  /usr/local/bin/python3 "/Users/nicocortese/Desktop/columbia_fintech_boot_camp/CU-VIRT-FIN-PT-12-2021-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01 copy.py"
+  125  /usr/local/bin/python3 "/Users/nicocortese/Desktop/columbia_fintech_boot_camp/CU-VIRT-FIN-PT-12-2021-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01 copy.py"
+  126  /usr/local/bin/python3 "/Users/nicocortese/Desktop/columbia_fintech_boot_camp/CU-VIRT-FIN-PT-12-2021-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01 copy.py"
+  127  /usr/local/bin/python3 "/Users/nicocortese/Desktop/columbia_fintech_boot_camp/CU-VIRT-FIN-PT-12-2021-U-B/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01 copy.py"
+  128  /usr/local/bin/python3 /Users/nicocortese/Desktop/columbia_fintech_boot_camp/Lesson_activities/no_prompt_files/import_pathlib.py
+  129  /usr/local/bin/python3 /Users/nicocortese/Desktop/columbia_fintech_boot_camp/Lesson_activities/01_Read_and_Write_CSV/read_and_write_CSV.py
+  130  /usr/local/bin/python3 /Users/nicocortese/Desktop/columbia_fintech_boot_camp/Lesson_activities/01_Read_and_Write_CSV/read_and_write_CSV.py
+  131  /usr/local/bin/python3 /Users/nicocortese/Desktop/columbia_fintech_boot_camp/Lesson_activities/01_Read_and_Write_CSV/read_and_write_CSV.py
+  132  /usr/local/bin/python3 /Users/nicocortese/Desktop/columbia_fintech_boot_camp/Lesson_activities/01_Read_and_Write_CSV/read_and_write_CSV.py
+  133  /usr/local/bin/python3 /Users/nicocortese/Desktop/columbia_fintech_boot_camp/Lesson_activities/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  134  /usr/local/bin/python3 /Users/nicocortese/Desktop/columbia_fintech_boot_camp/Lesson_activities/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  135  /usr/local/bin/python3 /Users/nicocortese/Desktop/columbia_fintech_boot_camp/Lesson_activities/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  136  /usr/local/bin/python3 /Users/nicocortese/Desktop/columbia_fintech_boot_camp/Lesson_activities/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  137  /usr/local/bin/python3 /Users/nicocortese/Desktop/columbia_fintech_boot_camp/Lesson_activities/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  138  /usr/local/bin/python3 /Users/nicocortese/Desktop/columbia_fintech_boot_camp/Lesson_activities/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  139  /usr/local/bin/python3 /Users/nicocortese/Desktop/columbia_fintech_boot_camp/Lesson_activities/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  140  /usr/local/bin/python3 /Users/nicocortese/Desktop/columbia_fintech_boot_camp/Lesson_activities/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  141  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/lesson_activities/no_prompt_files/write_to_csv.py
+  142  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/lesson_activities/no_prompt_files/write_to_csv.py
+  143  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/lesson_activities/no_prompt_files/write_to_csv.py
+  144  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/lesson_activities/no_prompt_files/write_to_csv.py
+  145  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/lesson_activities/no_prompt_files/write_to_csv.py
+  146  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/lesson_activities/no_prompt_files/write_to_csv.py
+  147  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/lesson_activities/no_prompt_files/write_to_csv.py
+  148  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/lesson_activities/no_prompt_files/write_to_csv.py
+  149  /usr/local/bin/python3
+  150  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/lesson_activities/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  151  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/lesson_activities/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  152  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/lesson_activities/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  153  pwd
+  154  cd 04_Automating_Equity_Rounds
+  155  cd Unsolved
+  156  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/lesson_activities/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  157  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  158  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  159  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  160  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  161  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  162  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  163  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  164  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  165  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  166  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  167  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  168  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  169  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  170  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  171  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  172  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  173  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  174  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  175  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  176  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  177  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  178  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  179  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  180  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  181  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  182  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  183  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  184  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  185  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  186  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  187  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  188  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  189  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  190  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  191  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  192  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  193  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  194  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  195  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  196  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  197  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  198  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  199  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  200  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  201  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  202  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  203  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  204  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  205  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  206  code .
+  207  cd ~
+  208  cd Desktop
+  209  ls
+  210  cd github_upload
+  211  ls
+  212  cd ~
+  213  cd Desktop
+  214  ls
+  215  cd boot_camp
+  216  ls
+  217  cd challenges
+  218  la
+  219  ls
+  220  mv challenge_1 1_challenge_1
+  221  ls
+  222  cd 1_challenge_1
+  223  ls
+  224  cd Starter_Code
+  225  ls
+  226  cd ..
+  227  code .
+  228  cd ~/git
+  229  ls
+  230  mkdir git
+  231  cd git
+  232  cd~
+  233  cd ~
+  234  ls
+  235  cd git
+  236  git clone git@github.com:themelquiades/codingdemo.git
+  237  open .
+  238  cd codingdemo
+  239  ls
+  240  git add -A
+  241  git commit -m "Added an index.html file"
+  242  git add -A
+  243  git commit -m "Added an index.html"
+  244  git push origin main
+  245  git checkout -b header
+  246  git add -A
+  247  git commit -m "Adds a header to index.html"
+  248  git push origin header
+  249  ssh -T git@github.com
+  250  ls -al ~/.ssh
+  251  ssh-keygen -t rsa -b 4096 -C "nicolasacortese@gmail.com"
+  252  eval "$(ssha-agent -s)"
+  253  eval "$(ssh-agent -s)"
+  254  ssh-add ~/.ssh/id_rsa
+  255  pbcopy < ~/.ssh/id_rsa.pub
+  256  ssh -T git@github.com
+  257  git checkout main
+  258  git pull
+  259  cg ~
+  260  cd ~
+  261  conda activate dev
+  262  jupyter lab
+  263  conda init zsh
+  264  python -m ipykernel install --user--name dev
+  265  python -m ipykernel install --user --name dev
+  266  conda install -c conda-forge nodejs
+  267  conda update conda
+  268  conda --version
+  269  conda update -n base -c defaults conda
+  270  conda --version
+  271  conda deactivate
+  272  conda activate dev
+  273  jupyter lab
+  274  conda deactivate
+  275  tr -d '\n' < ~/.ssh/id_rsa.pub | pbcopy
+  276  ssh -T git@columbia.bottcampcontent.com
+  277  ls
+  278  mkdir BootCamp_gitlab
+  279  cd BootCamp_gitlab
+  280  git clone git@columbia.bootcampcontent.com:columbia-bootcamp/CU-VIRT-FIN-PT-12-2021-U-B.git
+  281  ssh -T git@columbia.bootcampcontent.com
+  282  cd ~
+  283  pwd
+  284  ls
+  285  cd Desktop
+  286  pwd
+  287  ls
+  288  mkfir FinTech-Workspace
+  289  mdir FinTech-Workspace
+  290  mkdir FinTech-Workspace
+  291  ls
+  292  cd..
+  293  cd ..
+  294  cd Desktop
+  295  ls
+  296  cd Fintech-Workspace
+  297  cd Python_Project
+  298  ls
+  299  conda activate dev
+  300  python --version
+  301  code .
+  302  python hello_python.py
+  303  conda deactivate
+  304  pwd
+  305  ls
+  306  conda activate dev
+  307  python skill_drill_1
+  308  conda deactivate
+  309  conda activate dev
+  310  python variable_practice_1
+  311  conda deactivate
+  312  conda activate dev
+  313  python variable_practice_1
+  314  python variable_practice_1
+  315  python hello_variable_world.py
+  316  ls
+  317  cd 01_Hello_Variable_World
+  318  python hello_variable_world.py
+  319  ls
+  320  cd unsolved
+  321  ls
+  322  python hello_variable_world.py
+  323  git clone git@columbia.bootcampcontent.com:columbia-bootcamp/CU-VIRT-FIN-PT-12-2021-U-B.git
+  324  ssh -T git@columbia.bootcampcontent.com
+  325  cd ~
+  326  ls
+  327  cd BootCamp_gitlab
+  328  ls
+  329  cd CU-VIRT-FIN-PT-12-2021-U-B
+  330  git pull
+  331  cd ~
+  332  cd desktop
+  333  ls
+  334  cd Lesson_activities
+  335  ls
+  336  cs 02_Listing_Assets
+  337  cd 02_Listing_Assets
+  338  ls
+  339  cs unsolved
+  340  ls
+  341  cd unsolved
+  342  ls
+  343  python listing_assets.py
+  344  code .
+  345  cd Desktop
+  346  cd~
+  347  cd ~
+  348  cd Desktop
+  349  ls
+  350  cd lesson
+  351  cd Lesson_activities
+  352  ls
+  353  cd 03_The_401k_Shuffle
+  354  ls
+  355  cd Unsolved
+  356  code .
+  357  cd~
+  358  cd ~
+  359  navigator
+  360  conda navigator
+  361  jupyter lab
+  362  cd desktop
+  363  ls
+  364  cd CU-VIRT-FIN-PT-12-2021-U-B
+  365  ls
+  366  git pull
+  367  cd downloads
+  368  cd ~
+  369  cd downloads
+  370  ls
+  371  cd 01_Conditional_Statement
+  372  ls
+  373  cd ..
+  374  mv 01_Conditional_Statement Desktop
+  375  cd ~
+  376  cd Desktop
+  377  ls
+  378  pwd
+  379  cd ..
+  380  ls
+  381  cd downloads
+  382  ls
+  383  pwd
+  384  mv /Users/nicocortese/downloads/01_Conditional_Statement.zip /Users/nicocortese/Desktop/01_Conditional_Statement.zip
+  385  cd ~
+  386  cd desktop
+  387  ls
+  388  cd Lesson_activities
+  389  ls
+  390  cd 01_Conditional_Statement
+  391  ls
+  392  cd unsolved
+  393  ls
+  394  code
+  395  cd conditional_statement.py
+  396  code conditional_statement.py
+  397  cd ~
+  398  cd downloads
+  399  ls
+  400  mv /Users/nicocortese/downloads/02_Nested_Conditionals /Users/nicocortese/Desktop/Lesson_activities
+  401  cd ~
+  402  cd desktop
+  403  ls
+  404  cd Lesson_activities
+  405  ls
+  406  cd 02_Nested_Conditionals
+  407  ls
+  408  cd Unsolved
+  409  ls
+  410  code nested_conditionals.py
+  411  cd ~
+  412  cd Desktop
+  413  ls
+  414  cd Lesson_activities
+  415  ls
+  416  cd no_prompt_files
+  417  ls
+  418  touch home_buying_cinditionals.py
+  419  ls
+  420  mv home_buying_cinditionals.py home_buying_conditionals.py
+  421  ls
+  422  code home_buying_conditionals.py
+  423  rm home_buying_conditionals.py
+  424  ls
+  425  mv /users/nicocortese/downloads/03_Split_Second_Homebuying /users/nicocortese/Desktop/Lesson_Activites/
+  426  cd ~
+  427  cd desktop
+  428  ls
+  429  rm Lesson_activites
+  430  rm -r Lesson_activites
+  431  cd ~
+  432  cd downloads
+  433  ls
+  434  cd ~
+  435  ls
+  436  cd Desktop
+  437  ls
+  438  cd Lesson_activities
+  439  ls
+  440  cd 03_Split_Second_Homebuying
+  441  cd Unsolved
+  442  ls
+  443  code split_second_homebuying.py
+  444  cd ~
+  445  cd Desktop
+  446  cd Lesson_activities
+  447  ls
+  448  cd no_prompt_files
+  449  ls
+  450  touch functions_practice_1.py
+  451  code functions_practice_1.py
+  452  cd ..
+  453  cd 01_A_Definitive_Buy
+  454  ls
+  455  cs unsolved
+  456  cd unsolved
+  457  ls
+  458  cd a_definitive_buy.py
+  459  code a
+  460  ls
+  461  code a_definitive_buy.py
+  462  cd ~
+  463  mv /users/nicocortese/downloads/02_Returned_Goods/ users/nicocortese/desktop/Lesson_activities/
+  464  mv /users/nicocortese/downloads/02_Returned_Goods/ users/nicocortese/Desktop/Lesson_activities/\n
+  465  mv /users/nicocortese/downloads/02_Returned_Goods/ /users/nicocortese/Desktop/Lesson_activities/\n
+  466  cd Desktop
+  467  ls
+  468  cd Lesson_activities
+  469  ls
+  470  cd 02_Returned_Goods
+  471  cd unsolved
+  472  ls
+  473  code returned_goods.py
+  474  python returned_goods.py
+  475  cd ~
+  476  cd Desktop
+  477  cd Lesson_activities
+  478  ls
+  479  cd 02_Pathways_to_Success_Part_1
+  480  ls
+  481  cd Unsolved
+  482  ls
+  483  pwd
+  484  cd ~
+  485  ls
+  486  cd Desktop
+  487  ls
+  488  cd CU-VIRT-FIN-PT-12-2021-U-B
+  489  git pull
+  490  ls
+  491  cd ~
+  492  cd Desktop
+  493  ls
+  494  mkdir challenges
+  495  ls
+  496  mkdir projects
+  497  cd ~
+  498  cd Desktop
+  499  mkdir columbia_fintech_boot_camp
+  500  clear
+  501  deactivate
+  502  cd ~
+  503  cd Desktop
+  504  ls
+  505  cd columbia_fintech_boot_camp
+  506  ls
+  507  cd Lesson_activities
+  508  ls
+  509  cd no_prompt_files
+  510  ls
+  511  cd import_pathlib.py
+  512  code .
+  513  cd ..
+  514  cd 01_Read_and_Write_CSV
+  515  code .
+  516  cd ..
+  517  ls
+  518  cd 03_Pathways_to_Success_Part_2
+  519  code .
+  520  cd ~
+  521  cd Desktop
+  522  ls
+  523  mv columbia_fintech_boot_camp boot_camp
+  524  ls
+  525  cd boot_camp
+  526  ls
+  527  mv Lesson_activities
+  528  mv Lesson_activities lesson_activities
+  529  ls
+  530  cd lesson_activities
+  531  ls
+  532  cd no_prompt_files
+  533  ls
+  534  touch write_to_csv.py
+  535  code .
+  536  code ..
+  537  cd ~
+  538  cd desktop
+  539  cd boot_camp
+  540  ls
+  541  cd CU-VIRT-FIN-PT-12-2021-U-B
+  542  ls
+  543  cd 02-Financial-Applications-Python
+  544  ls
+  545  code .
+  546  cd ..
+  547  git pull
+  548  ls
+  549  cd 02-Financial-Applications-Python
+  550  code .
+  551  ls
+  552  cd 2
+  553  ls
+  554  cd Activities
+  555  cd ~
+  556  cd Desktop
+  557  ls
+  558  cd boot_camp
+  559  mkdir atm_app
+  560  ls
+  561  cd atm_app
+  562  touch atm.py
+  563  touch utils.py
+  564  touch actions.py
+  565  touch data.py
+  566  ls
+  567  mv data.py data
+  568  mv actions.py actions
+  569  ls
+  570  cd actions
+  571  ls
+  572  cd actions
+  573  touch make_deposti.py
+  574  cd ..
+  575  ls
+  576  cd actions
+  577  touch make_withdrawal.py
+  578  ls
+  579  clear
+  580  cd ..
+  581  ls
+  582  conda env list
+  583  conda create -n atm app python=3.7 anaconda
+  584  conda create -n atmapp python=3.7 anaconda
+  585  conda activate atmapp
+  586  pip install fire ==0.3.1
+  587  pip install fire==0.3.1
+  588  pip install questionary==1.5.2
+  589  pip install pytest==5.4.2
+  590  code .
+  591  python atm.py
+  592  python atm.py
+  593  atm.py
+  594  python atm.py
+  595  atmapp deactivate
+  596  conda deactivate
+  597  conda deactivate
+  598  cd ~
+  599  cd Desktop
+  600  ls
+  601  cd boot_camp
+  602  cd lesson_activities
+  603  ls
+  604  cd 04_Automating_Equity_Rounds
+  605  code .
+  606  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  607  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/challenges/1_challenge_1/Starter_Code/loan_analyzer.py
+  608  /System/Library/CoreServices/Finder.app/Contents/MacOS/Finder ; exit;
+  609  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/lesson_activities/no_prompt_files/module_2_no_prompt/modular_programming/app.py
+  610  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/lesson_activities/no_prompt_files/module_2_no_prompt/modular_programming/app.py
+  611  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/lesson_activities/no_prompt_files/module_2_no_prompt/modular_programming/app.py
+  612  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/lesson_activities/no_prompt_files/module_2_no_prompt/modular_programming/app.py
+  613  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/lesson_activities/no_prompt_files/module_2_no_prompt/modular_programming/app.py
+  614  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/lesson_activities/no_prompt_files/module_2_no_prompt/modular_programming/app.py
+  615  code .
+  616  ls
+  617  cd Unsolved
+  618  ls
+  619  python app_copy.py
+  620  python app_copy.py
+  621  conda activate dev
+  622  pip -V
+  623  pip freeze
+  624  pip install fire
+  625  pip install questionary
+  626  pip freeze
+  627  cd ~
+  628  ls
+  629  cd Desktop
+  630  ls
+  631  cd boot_camp
+  632  ls
+  633  cd CU-VIRT-FIN-PT-12-2021-U-B
+  634  git pull
+  635  ls
+  636  cd ~
+  637  cd Desktop
+  638  ls
+  639  cd boot_camp
+  640  ls
+  641  cd lesson_activities
+  642  ls
+  643  cd module_2
+  644  ls
+  645  cd 02_Loan_Qualifier_Filtering_Data
+  646  ls
+  647  cd Unsolved
+  648  ls
+  649  cd app copy.py
+  650  ls
+  651  python app_copy.py
+  652  cd ~
+  653  cd Desktop
+  654  ls
+  655  cd boot_camp
+  656  ls
+  657  cd lesson_activities
+  658  ls
+  659  cd no_prompt_files
+  660  ls
+  661  cd module_2_no_prompt
+  662  code .
+  663  pwd
+  664  ls
+  665  mkdir test_folder
+  666  ls
+  667  cd test_folder
+  668  touch test.txt
+  669  ls
+  670  rm test.txt
+  671  ls
+  672  cd ..
+  673  ls
+  674  rm test_folder
+  675  ls
+  676  rm -r test_folder
+  677  ls
+  678  pip install fire
+  679  cd Desktop
+  680  ls
+  681  cd boot_camp
+  682  ls
+  683  cd lesson_activities
+  684  ls
+  685  cd no_prompt_files
+  686  ls
+  687  cd module_2_no_prompt
+  688  ls
+  689  touch cli.py
+  690  ls
+  691  code .
+  692  pip install fire
+  693  code .
+  694  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/lesson_activities/no_prompt_files/module_2_no_prompt/cli.py
+  695  source /Users/nicocortese/opt/anaconda3/bin/activate
+  696  conda activate base
+  697  /Users/nicocortese/opt/anaconda3/bin/python /Users/nicocortese/Desktop/boot_camp/lesson_activities/no_prompt_files/module_2_no_prompt/cli.py
+  698  /Users/nicocortese/opt/anaconda3/bin/python /Users/nicocortese/Desktop/boot_camp/lesson_activities/no_prompt_files/module_2_no_prompt/cli.py
+  699  /Users/nicocortese/opt/anaconda3/bin/python /Users/nicocortese/Desktop/boot_camp/lesson_activities/no_prompt_files/module_2_no_prompt/cli.py
+  700  /Users/nicocortese/opt/anaconda3/bin/python
+  701  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/lesson_activities/module_2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  702  source /Users/nicocortese/opt/anaconda3/bin/activate
+  703  conda activate /Users/nicocortese/opt/anaconda3
+  704  /Users/nicocortese/opt/anaconda3/bin/python /Users/nicocortese/Desktop/boot_camp/lesson_activities/module_2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  705  pwd
+  706  source /Users/nicocortese/opt/anaconda3/bin/activate
+  707  conda activate /Users/nicocortese/opt/anaconda3
+  708  /Users/nicocortese/opt/anaconda3/bin/python /Users/nicocortese/Desktop/boot_camp/lesson_activities/module_2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  709  source /Users/nicocortese/opt/anaconda3/bin/activate
+  710  conda activate /Users/nicocortese/opt/anaconda3
+  711  /Users/nicocortese/opt/anaconda3/bin/python /Users/nicocortese/Desktop/boot_camp/lesson_activities/module_2/01_Adding_Fire_to_the_Loan_Qualifier_App/Solved/app.py
+  712  python /Users/nicocortese/Desktop/boot_camp/lesson_activities/module_2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  713  /usr/local/bin/python3 /Users/nicocortese/Desktop/boot_camp/lesson_activities/module_2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  714  source /Users/nicocortese/opt/anaconda3/bin/activate
+  715  conda activate /Users/nicocortese/opt/anaconda3
+  716  /Users/nicocortese/opt/anaconda3/bin/python /Users/nicocortese/Desktop/boot_camp/lesson_activities/module_2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  717  ls
+  718  cd Unsolved
+  719  source /Users/nicocortese/opt/anaconda3/bin/activate
+  720  conda activate /Users/nicocortese/opt/anaconda3
+  721  /Users/nicocortese/opt/anaconda3/bin/python /Users/nicocortese/Desktop/boot_camp/lesson_activities/module_2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  722  source /Users/nicocortese/opt/anaconda3/bin/activate
+  723  conda activate /Users/nicocortese/opt/anaconda3
+  724  /Users/nicocortese/opt/anaconda3/bin/python /Users/nicocortese/Desktop/boot_camp/lesson_activities/module_2/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  725  source /Users/nicocortese/opt/anaconda3/bin/activate
+  726  conda activate /Users/nicocortese/opt/anaconda3
+  727  /Users/nicocortese/opt/anaconda3/bin/python /Users/nicocortese/Desktop/boot_camp/lesson_activities/module_2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  728  source /Users/nicocortese/opt/anaconda3/bin/activate
+  729  conda activate /Users/nicocortese/opt/anaconda3
+  730  /Users/nicocortese/opt/anaconda3/bin/python /Users/nicocortese/Desktop/boot_camp/lesson_activities/module_2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  731  source /Users/nicocortese/opt/anaconda3/bin/activate
+  732  conda activate /Users/nicocortese/opt/anaconda3
+  733  /Users/nicocortese/opt/anaconda3/bin/python /Users/nicocortese/Desktop/boot_camp/lesson_activities/module_2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  734  ls
+  735  cd Unsolved
+  736  source /Users/nicocortese/opt/anaconda3/bin/activate
+  737  conda activate /Users/nicocortese/opt/anaconda3
+  738  /Users/nicocortese/opt/anaconda3/bin/python /Users/nicocortese/Desktop/boot_camp/lesson_activities/module_2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  739  source /Users/nicocortese/opt/anaconda3/bin/activate
+  740  conda activate /Users/nicocortese/opt/anaconda3
+  741  /Users/nicocortese/opt/anaconda3/bin/python /Users/nicocortese/Desktop/boot_camp/lesson_activities/module_2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  742  pwd
+  743  source /Users/nicocortese/opt/anaconda3/bin/activate
+  744  conda activate /Users/nicocortese/opt/anaconda3
+  745  /Users/nicocortese/opt/anaconda3/bin/python /Users/nicocortese/Desktop/boot_camp/lesson_activities/module_2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  746  source /Users/nicocortese/opt/anaconda3/bin/activate
+  747  conda activate /Users/nicocortese/opt/anaconda3
+  748  /Users/nicocortese/opt/anaconda3/bin/python /Users/nicocortese/Desktop/boot_camp/lesson_activities/module_2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  749  /Users/nicocortese/opt/anaconda3/bin/python /Users/nicocortese/Desktop/boot_camp/lesson_activities/module_2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  750  cd Unsolved
+  751  /Users/nicocortese/opt/anaconda3/bin/python /Users/nicocortese/Desktop/boot_camp/lesson_activities/module_2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  752  /Users/nicocortese/opt/anaconda3/bin/python /Users/nicocortese/Desktop/boot_camp/lesson_activities/module_2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  753  source /Users/nicocortese/opt/anaconda3/bin/activate
+  754  conda activate dev
+  755  /Users/nicocortese/opt/anaconda3/envs/dev/bin/python
+  756  pip install fire
+  757  import fire
+  758  conda activate dev
+  759  pip install fire
+  760  ls
+  761  python cli.py
+  762  python cli.py --pants=True
+  763  python cli.py
+  764  python cli.py --pants=False
+  765  python cli.py --pants=True
+  766  python cli.py --pants=True
+  767  python cli.py --pants=True
+  768  python cli.py --pants=True
+  769  python cli.py --pants=True
+  770  cd Deskto
+  771  cd ~
+  772  cd Desktop
+  773  ls
+  774  cd boot_camp
+  775  cd lesson_activities
+  776  ls
+  777  cd module_
+  778  cd module_2
+  779  ls
+  780  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  781  code ,
+  782  code .
+  783  code .
+  784  ls
+  785  cd Unsolved
+  786  ls
+  787  python app.py --credit_score=750
+  788  python app.py --credit_score=750
+  789  python app.py
+  790  python app.py --credit_score=750
+  791  cd ..
+  792  python app.py
+  793  cd Unsolved
+  794  python app.py
+  795  python app.py
+  796  python app.py --credit_score=750
+  797  python app.py --credit_score=750 --debt=5000 --income=20000
+  798  python app.py --credit_score=750
+  799  python app.py --credit_score=750 --debt=5000 --income=20000
+  800  python app.py --credit_score=750 --debt=5000 --income=60000
+  801  cd ~
+  802  pip install questionary
+  803  cd Desktop
+  804  cd boot_camp
+  805  cd lesson_activities
+  806  cd no_prompt_files
+  807  cd module_2_no_prompt
+  808  ls
+  809  python dialog.py
+  810  python dialog.py
+  811  python dialog.py
+  812  python dialog.py
+  813  python dialog.py
+  814  cd ..
+  815  cd ..
+  816  ls
+  817  cd module_2
+  818  ls
+  819  cd 02_Adding_questionary_to_Loan_Qualifier
+  820  code .
+  821  pip install Questionary
+  822  ls
+  823  cd Unsolved
+  824  ls
+  825  python app.py --credit_score=750 --debt=5000 --income=20000
+  826  pwd
+  827  python app.py
+  828  python app.py
+  829  cd ~
+  830  git config --global user.name Nico Cortese
+  831  git config --global user.email nicolasacortese@gmail.com
+  832  git config --list
+  833  git config --global user.name NicoCortese
+  834  git config --list
+  835  cd Desktop
+  836  ls
+  837  cd github_upload
+  838  ls
+  839  cd ..
+  840  cd boot_camp
+  841  ls
+  842  cd lesson_activities
+  843  ls
+  844  cd git
+  845  ls
+  846  git clone https://github.com/themelquiades/module_2_github_practice.git
+  847  ls
+  848  cd module_2_github_practice
+  849  ls
+  850  pwd
+  851  git status
+  852  git add README.md
+  853  git status
+  854  touch new_test.txt
+  855  ls
+  856  git status
+  857  git add new_test.txt
+  858  git status
+  859  git commit -m "Edited README and added new_test.txt file"
+  860  git status
+  861  git push
+  862  git push
+  863  git push
+  864  ls -al ~/.ssh
+  865  pbcopy < ~/.ssh/id_rsa.pub
+  866  ssh -T git@github.com
+  867  git status
+  868  git push
+  869  git push
+  870  ssh-keygen –t rsa –b 4096 –C "nicolasacortese@gmail.com"
+  871  ssh-keygen –t rsa –b 4096 –C nicolasacortese@gmail.com
+  872  conda deactivate
+  873  git status
+  874  git push
+  875  git push
+  876  git push
+  877  git push
+  878  cd ~
+  879  ls -al ~/.ssh
+  880  ssh-keygen -t rsa -b 4096 -C "nicolasacortese@gmail.com"
+  881  eval "$(ssha-agent -s)"
+  882  eval "$(ssh-agent -s)"
+  883  ssh-add ~/.ssh/id_rsa
+  884  pbcopy < ~/.ssh/id_rsa.pub
+  885  ssh -T git@github.com
+  886  git status
+  887  cd Desktop
+  888  cd boot_camp
+  889  cd git
+  890  ls
+  891  cd lesson_activities
+  892  ls
+  893  cd git
+  894  ls
+  895  cd module_2_github_practice
+  896  ls
+  897  git status
+  898  git push
+  899  cd ..
+  900  git clone git@github.com:themelquiades/module_2_github_practice.git
+  901  rm -r module_2_github_practice
+  902  code .
+  903  cd ~
+  904  cd Desktop
+  905  cd boot_camp
+  906  cd lesson_activities
+  907  cd module_2
+  908  ls
+  909  cd 02_Adding_questionary_to_Loan_Qualifier
+  910  ls
+  911  cd Unsolved
+  912  ls
+  913  python app.py
+  914  conda activate dev
+  915  python app.py
+  916  python app.py
+  917  cd ~
+  918  cd Desktop
+  919  cd boot_camp
+  920  cd lesson_activities
+  921  ls
+  922  cd git_practice
+  923  ls
+  924  cd module_2_github_practice
+  925  git status
+  926  git add README.md
+  927  git add images
+  928  git status
+  929  git commit -m "Fleshed out a README.md file for my loan qualifier app"
+  930  git push
+  931  cd Desktop
+  932  cd boot_camp
+  933  cd lesson_activities
+  934  cd git
+  935  git clone git@github.com:themelquiades/module_2_github_practice.git
+  936  git status
+  937  ls
+  938  cd module_2_github_practice
+  939  git status
+  940  ls
+  941  git status
+  942  git add README.md
+  943  git status
+  944  touch new_test.txt
+  945  git status
+  946  git add new_test.text
+  947  git add new_test.txt
+  948  ls
+  949  git status
+  950  git commit -m "Edited README.md and added new_test.txt file"
+  951  git status
+  952  git push
+  953  git status
+  954  git ..
+  955  cd ..
+  956  git clone git@github.com:themelquiades/readme_practice.git
+  957  ls
+  958  cd readme_practice
+  959  code .
+  960  clear
+  961  conda activate dev
+  962  conda list pandas
+  963  conda list jupyterlab
+  964  conda info --envs
+  965  python update python
+  966  python -m ipykernel install --user --name dev --display-name "Python (dev)"
+  967  jupyter lab
+  968  conda activate dev
+  969  cd Desktop
+  970  cd boot_camp
+  971  ls
+  972  cd CU-VIRT-FIN-PT-12-2021-U-B
+  973  git pull
+  974  ls
+  975  cd 03-Financial-Analysis-Pandas
+  976  git pull
+  977  cd ..
+  978  git pull
+  979  conda deactivate
+  980  git pull
+  981  conda list pandas
+  982  jupyter lab
+  983  cd Desktop
+  984  cd boot_camp
+  985  ;s
+  986  ls
+  987  cd CU-VIRT-FIN-PT-12-2021-U-B
+  988  git pull
+  989  git pull
+  990  cd Desk
+  991  cd ~
+  992  cd D
+  993  cd Desktop
+  994  ls
+  995  cd boot_camp
+  996  ls
+  997  cd CU-VIRT-FIN-PT-12-2021-U-B
+  998  git pull
+  999  pbcopy <~/.ssh/id_rsa.pub
+ 1000  git pull
+ 1001  conda list pandas
+ 1002  conda list jupyterlab
+ 1003  conda list python
+ 1004  python3 --version
+ 1005  conda remove --name base --all
+ 1006  conda activate dev
+ 1007  conda remove --name base --all
+ 1008  python --version
+ 1009  conda deactivate
+ 1010  brew install pyenv
+ 1011  pyenv install --list
+ 1012  pyenv install 3.7
+ 1013  conda activate dev
+ 1014  python --version
+ 1015  conda deactivate
+ 1016  pyenv install 3.7.11
+ 1017  pyenv install 3.7.11ython --version
+ 1018  python --version
+ 1019  pyenv global 3.7.11
+ 1020  python3 --version
+ 1021  jupyter lab
+ 1022  conda activate dev
+ 1023  jupyter lab
+ 1024  donda deactivate
+ 1025  conda deactivate
+ 1026  cd D
+ 1027  cd Desktop
+ 1028  cd boot_camp
+ 1029  ls
+ 1030  cd CU-VIRT-FIN-PT-12-2021-U-B
+ 1031  git pull
+ 1032  cd ..
+ 1033  ls
+ 1034  cd challenges
+ 1035  ls
+ 1036  cd 2_challenge_2
+ 1037  git clone git@github.com:themelquiades/challenge_2_loan_app.git
+ 1038  ls
+ 1039  git status
+ 1040  cd challenge_2_loan_app
+ 1041  git status
+ 1042  git add Starter_Code
+ 1043  git status
+ 1044  git commit -m "Adding the provided starter_code files to my repo"
+ 1045  git status
+ 1046  git push
+ 1047  code .
+ 1048  git status
+ 1049  git commit -m "First attempt at save_csv function"
+ 1050  git add Starter_Code
+ 1051  git status
+ 1052  git commit -m "First attempt at creating save_csv function"
+ 1053  git push
+ 1054  cd ~
+ 1055  cd D
+ 1056  cd Desktop
+ 1057  cd boot_camp
+ 1058  cd lesson_activities
+ 1059  ls
+ 1060  cd module_
+ 1061  module_3
+ 1062  cd module_3
+ 1063  ls
+ 1064  cd ..
+ 1065  cd ..
+ 1066  cd CU-VIRT-FIN-PT-12-2021-U-B
+ 1067  ls
+ 1068  cd 03-Financial-Analysis-Pandas
+ 1069  ls
+ 1070  cd 2
+ 1071  ls
+ 1072  cd Activities
+ 1073  ls
+ 1074  jupyter lab
+ 1075  conda activate dev
+ 1076  jupyter lab
+ 1077  cd ~
+ 1078  cd Desktop
+ 1079  cd boot_camp
+ 1080  cd challenges
+ 1081  ls
+ 1082  cd 2_challenge_2
+ 1083  ls
+ 1084  cd challenge_2_loan_app
+ 1085  ls
+ 1086  cd Starter_Code
+ 1087  git status
+ 1088  git add loan_qualifier_app/qualifying_loans.csv
+ 1089  git status
+ 1090  git add loan_qualifier_app
+ 1091  git status
+ 1092  git commit -m "Second attempt at writing the qualifying loans into a new csv. This time in the save_qualifying_loans function"
+ 1093  git push
+ 1094  git status
+ 1095  git commit -m "Third attempt at save_csv function, written outside of save_qualifying_loans function so it can also be used elsewhere"
+ 1096  git add loan_qualifier_app
+ 1097  git status
+ 1098  git commit -m "Third attempt at save_csv function, written outside of save_qualifying_loans function so it can also be used elsewhere"\n
+ 1099  git push
+ 1100  git status
+ 1101  git add loan_qualifier_app/app.py
+ 1102  git add loan_qualifier_app/qualifier/utils/fileio.py
+ 1103  git status
+ 1104  git commit -m "Moved save_csv to utils/filio.py"
+ 1105  git push
+ 1106  git status
+ 1107  git status
+ 1108  git add all
+ 1109  git add
+ 1110  git add .
+ 1111  git status
+ 1112  git commit -m "Added a working save_qualifying_loans function which saves the qualifying loans to the .csv file of the user's choosing"
+ 1113  git push
+ 1114  clear
+ 1115  ls
+ 1116  cd loan_qualifier_app
+ 1117  ls
+ 1118  python app.py
+ 1119  python app.py
+ 1120  python app.py
+ 1121  python app.py
+ 1122  python app.py
+ 1123  python appy.py
+ 1124  python app.py
+ 1125  ls
+ 1126  code my_loans.csv
+ 1127  cd ..
+ 1128  git status
+ 1129  git add .
+ 1130  git status
+ 1131  git commit -m "Added code to message and exit if there are 0 qualifying loans for the user"
+ 1132  git push
+ 1133  git status
+ 1134  git add loan_qualifier_app
+ 1135  git commit -m "Added more notes in the code on what each line does"
+ 1136  git push
+ 1137  python appy.py
+ 1138  cd loan_qualifier_app
+ 1139  python app.py
+ 1140  python app.py
+ 1141  python app.py
+ 1142  python app.py
+ 1143  python app.py
+ 1144  git status
+ 1145  git status
+ 1146  git add .
+ 1147  git commit -m "Started editing README and put back in the prompt asking to load in daily_rate_sheet.csv"
+ 1148  git push
+ 1149  git status
+ 1150  git add .
+ 1151  git status
+ 1152  git commit -m "rewrote save_csv function to include a header"
+ 1153  git push
+ 1154  git status
+ 1155  cd ..
+ 1156  cd ..
