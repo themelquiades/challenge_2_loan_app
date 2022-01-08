@@ -135,7 +135,7 @@ def run():
 
     # Load the latest Bank data
     bank_data = load_bank_data()
-
+   
     # Get the applicant's information
     credit_score, debt, income, loan_amount, home_value = get_applicant_info()
 

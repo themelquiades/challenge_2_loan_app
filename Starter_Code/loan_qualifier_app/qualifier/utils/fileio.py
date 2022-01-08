@@ -29,7 +29,9 @@ def load_csv(csvpath):
     return data
 
 
-"""Function that writes data into a new CSV file at the path provided.
+
+def save_csv(csvpath, qualifying_loans):
+    """Function that writes data into a new CSV file at the path provided.
 
     Args:
         csvpath (Path): The new csv file path.
@@ -38,9 +40,12 @@ def load_csv(csvpath):
         A new CSV file at the specified path containing a list of lists.
 
     """
-def save_csv(csvpath, qualifying_loans):
     csvpath = Path(csvpath)
     with open(csvpath, 'w', newline='') as csvfile:
         csvwriter=csv.writer(csvfile)
+        #writes in a header matching the header in the original .csv
+        header = ["Lender","Max Loan Amount","Max LTV","Max DTI","Min Credit Score","Interest Rate"]
+        csvwriter.writerow(header)
+        #writes in the qualifying loans
         for row in qualifying_loans:
             csvwriter.writerow(row)
