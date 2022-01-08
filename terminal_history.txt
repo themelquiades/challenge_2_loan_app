@@ -1105,3 +1105,14 @@
  1154  git status
  1155  cd ..
  1156  cd ..
+ 1157  history 50 > terminal_history.txt
+ 1158  ls
+ 1159  git status
+ 1160  git add .
+ 1161  git status
+ 1162  git status
+ 1163  git add /
+ 1164  git add .
+ 1165  git status
+ 1166  git commit -m "Finalized README.md and ready for final Challenge 2 submission"
+ 1167  git push
